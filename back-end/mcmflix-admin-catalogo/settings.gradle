@@ -1,5 +1,0 @@
-rootProject.name = 'mcmflix-admin-catalogo'
-include 'domain'
-include 'application'
-include 'infrastructure'
-
